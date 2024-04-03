@@ -42,7 +42,7 @@ function Work() {
                                 <a href='/' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href='/' target="_blank">
+                                <a href='https://github.com/Ali-Mohammadi-Seta/TailwindCSS-ReactJs_Weather' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Code</button>
                                 </a>
 
@@ -59,7 +59,7 @@ function Work() {
                                 <a href='/' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href='/' target="_blank">
+                                <a href='https://github.com/Ali-Mohammadi-Seta/TailwindCSS-ReactJs_Portfolio' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Code</button>
                                 </a>
 
