@@ -2,6 +2,8 @@ import React from 'react'
 import Food from '../assets/projects/Food.png'
 import Weather from '../assets/projects/Weather.png'
 import Portfolio from '../assets/projects/Portfolio.png'
+import ChatRoom from '../assets/projects/ChatRoom.png'
+
 
 function Work() {
 
@@ -64,6 +66,25 @@ function Work() {
                                 </a>
 
                             </div>
+
+                        </div>
+                    </div>
+                    <div  style={{backgroundImage: `url(${ChatRoom})` , backgroundSize:"cover", backgroundRepeat:"no-repeat"}} className='shadow-lg shadow-[#040c16]  text-center  hover:scale-110 duration-300'>
+                        {/*Hover Effects*/}
+                        <div className='opacity-0 hover:bg-gray-600/90 hover:opacity-100  '>
+                        <span className='text-2xl font-bold  tracking-wider text-center'>
+                         Portfolio Website
+                        </span>
+                            <div className='pt-8 text-center'>
+                                <a href='/' target="_blank">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Demo</button>
+                                </a>
+                                <a href='https://github.com/Ali-Mohammadi-Seta/TailwindCSS-ReactJs-FireBase_ChatRoom' target="_blank">
+                                    <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Code</button>
+                                </a>
+
+                            </div>
+
                         </div>
                     </div>
 
