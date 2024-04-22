@@ -24,7 +24,7 @@ function Work() {
                          Food Website
                         </span>
                             <div className='pt-8 text-center'>
-                                <a href='/' target="_blank">
+                                <a href='https://alifood-react.vercel.app' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Demo</button>
                                 </a>
                                 <a href='https://github.com/Ali-Mohammadi-Seta/TailwindCSS-ReactJS_Food' target="_blank">
@@ -41,7 +41,7 @@ function Work() {
                          Weather App
                         </span>
                             <div className='pt-8 text-center'>
-                                <a href='/' target="_blank">
+                                <a href='https://aliweather-app-react.vercel.app' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Demo</button>
                                 </a>
                                 <a href='https://github.com/Ali-Mohammadi-Seta/TailwindCSS-ReactJs_Weather' target="_blank">
@@ -58,7 +58,7 @@ function Work() {
                          Portfolio Website
                         </span>
                             <div className='pt-8 text-center'>
-                                <a href='/' target="_blank">
+                                <a href='https://aliportfolio-react.vercel.app' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Demo</button>
                                 </a>
                                 <a href='https://github.com/Ali-Mohammadi-Seta/TailwindCSS-ReactJs_Portfolio' target="_blank">
@@ -76,7 +76,7 @@ function Work() {
                          Chat Room Website
                         </span>
                             <div className='pt-8 text-center'>
-                                <a href='/' target="_blank">
+                                <a href='https://alichat-room-react.vercel.app' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Demo</button>
                                 </a>
                                 <a href='https://github.com/Ali-Mohammadi-Seta/TailwindCSS-ReactJs-FireBase_ChatRoom' target="_blank">
