@@ -90,7 +90,7 @@ function Work() {
                         {/*Hover Effects*/}
                         <div className='opacity-0 hover:bg-gray-600/90 hover:opacity-100  '>
                         <span className='text-2xl font-bold  tracking-wider text-center'>
-                         Chat Room Website
+                         Crypto Tracker Website
                         </span>
                             <div className='pt-8 text-center'>
                                 <a href='https://alicrypto-react.vercel.app' target="_blank">
