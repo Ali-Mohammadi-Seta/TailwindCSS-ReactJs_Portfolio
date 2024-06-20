@@ -1,3 +1,4 @@
+
 import React from 'react'
 import {TypeAnimation} from "react-type-animation";
 import {AiFillLinkedin , AiFillInstagram} from "react-icons/ai";
@@ -68,3 +69,4 @@ function Hero(){
 
 }
 export default Hero
+

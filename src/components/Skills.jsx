@@ -1,3 +1,4 @@
+
 import React from "react";
 import css from "../assets/css.png"
 import html from "../assets/html.png"
@@ -36,5 +37,7 @@ function Skills (){
         </div>
     )
 }
+
+
 
 export default Skills

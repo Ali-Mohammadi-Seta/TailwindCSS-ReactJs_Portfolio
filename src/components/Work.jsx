@@ -1,3 +1,4 @@
+
 import React from 'react'
 import Food from '../assets/projects/Food.png'
 import Weather from '../assets/projects/Weather.png'
@@ -42,10 +43,10 @@ function Work() {
                          Weather App
                         </span>
                             <div className='pt-8 text-center'>
-                                <a href='https://aliweather-app-react.vercel.app' target="_blank">
+                                <a href='https://weather-reduxali.vercel.app/' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href='https://github.com/Ali-Mohammadi-Seta/TailwindCSS-ReactJs_Weather' target="_blank">
+                                <a href='https://github.com/Ali-Mohammadi-Seta/Weather_App' target="_blank">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-grey-700 font-bold text-lg'>Code</button>
                                 </a>
 
